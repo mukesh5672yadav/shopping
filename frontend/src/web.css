@@ -1,0 +1,88 @@
+.bton{
+    background-color: #fb641b;
+}
+.bton1{
+    background-color: #fb641b;
+    width: 120px;
+    height: 50px;
+    font-size: 22px;
+    color: white;
+    
+}
+.f1{
+    background-color: #fff;
+    
+}
+.head11{
+    font-family: arial black;
+}
+.bold11{
+    color: red;
+    font-family: arial black;
+}
+.bold12{
+    color: blue;
+}
+.icon1:hover{
+    color: red;
+    cursor: pointer;
+}
+.icon2:hover{
+    color: red;
+    cursor: pointer;
+}
+.head50{
+    background-color: #f8f9fa;
+    font-family:  sans-serif;
+    height: 50px;
+    width: 280px;
+    color: black;
+    
+}
+.head50:hover{
+    background-color: #2874f0;
+    cursor: pointer;
+}
+.img1{
+    height: 550px;
+}
+.r1{
+    background-image: url("./image/bagveg.jpg");
+    background-size: cover;
+    width: 22%;
+    height: 250px;
+    border-radius: 7px 7px 7px 7px;
+}
+.r2{
+    background-image: url("./image/grocries.jpg");
+    background-size: cover;
+    width: 22%;
+    height: 250px;
+    border-radius: 7px 7px 7px 7px;
+
+}
+.r3{
+    background-image: url("./image/fruit.jpg");
+    background-size: cover;
+    width: 25%;
+    height: 250px;
+    border-radius: 7px 7px 7px 7px;
+}
+.img5{
+    width: 25%;
+    height: 200px;
+
+}
+
+
+.rower1{
+    background-color: #eee;
+    
+}
+.rower1:hover{
+    border: solid red 2px;
+}
+.basmati{
+    background-color: #eee;
+    
+}
